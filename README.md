@@ -5,11 +5,18 @@
 </p>
 
 <h1 align="center">Hi, I'm Victor Nguyen 👋</h1>
-<h3 align="center">Software &amp; Web Developer</h3>
 
-<p align="center">❤ Currently building things for the web — always learning, always shipping.</p>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Developer;Web+Developer;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  </a>
+</p>
 
-<br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VictorNguyen-Dev&label=Profile%20views&color=7AA2F7&style=flat" alt="Profile views" />
+</p>
+
+<hr />
 
 <h3 align="center">🧰 Tech Stack</h3>
 
@@ -34,22 +41,18 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
 </p>
 
-<br />
+<hr />
 
-<h3 align="center">📞 Contact Me</h3>
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victornguyencontact/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/nguyencong.1606" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorNguyen-Dev&theme=tokyonight" alt="Stats" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorNguyen-Dev&theme=tokyonight" alt="Top languages" height="200" />
 </p>
 
-<br />
-
-<h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorNguyen-Dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Victor's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNguyen-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorNguyen-Dev&theme=tokyonight" alt="Most commit language" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VictorNguyen-Dev&theme=tokyonight&utcOffset=7" alt="Productive time" height="200" />
 </p>
 
 <p align="center">
@@ -57,5 +60,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorNguyen-Dev&theme=tokyonight" alt="GitHub profile summary" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorNguyen-Dev&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+</p>
+
+<hr />
+
+<h3 align="center">📫 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/victornguyencontact/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/nguyencong.1606" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:victornguyencontact@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
